@@ -27,7 +27,7 @@ Importez vos trades depuis MT5, NinjaTrader ou CSV. Visualisez vos performances,
   color: neutral
   icon: i-simple-icons-github
   size: xl
-  to: https://github.com/yourusername/tradeJourney
+  to: https://github.com/yopkool29/tradeJourney
   variant: outline
   ---
   Voir sur GitHub
