@@ -14,4 +14,4 @@
 
 ## Full Documentation
 
-- Coding style: [docs/dev/coding_style.md](docs/dev/coding_style.md)
+- Coding style: [.windsurf/rules/coding_style.md](.windsurf/rules/coding_style.md)
